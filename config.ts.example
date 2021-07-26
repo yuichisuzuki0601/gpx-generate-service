@@ -1,0 +1,17 @@
+export const serverConfig = {
+  port: 80,
+  gpxSaveMode: false,
+  gpxSaveDirectory: '../gpx/',
+  additionalCommand: ''
+};
+
+export const clientConfig = {
+  googleMapApiKey: '',
+  defaultMapSettings: {
+    zoom: 16,
+    center: {
+      lat: 35.6809591,
+      lng: 139.7673068
+    }
+  }
+};

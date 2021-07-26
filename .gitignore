@@ -1,0 +1,6 @@
+node_modules
+.vscode
+frontend/build
+gpx
+.DS_Store
+config.ts
